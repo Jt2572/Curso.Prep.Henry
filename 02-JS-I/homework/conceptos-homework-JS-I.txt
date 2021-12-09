@@ -1,0 +1,21 @@
+﻿Variable:
+Es un dato o información que puede cambiar.
+
+Strings:
+Son datos en forma de texto.
+
+Funciones(argumentos, return):
+Las funciones son como subprogramas que realizan las tareas que se les asigne y, para 
+realizar éstas, algunas veces necesitan uno o mas datos, a estos datos se les llama 
+argumentos, los cuales son como variables de la función y, si hay varios, se separan
+por comas. Cuando se requiere que una función retorne o devuelva algún dato se puede
+utilizar la declaración return.
+
+Declaraciones If: 
+Se utilizan con los operadores de comparación para evaluar alguna condición y dependiendo
+del resultado de esta evaluación se ejecutan determinadas instrucciones, o si no, se continua
+a las siguientes, a ésto se le conoce como control de flujo.
+
+Valores Booleanos (true, false):
+Son valores que toman algunos datos y nos indican si algo se cumple o no, es decir, si algo 
+es verdadero o falso.
