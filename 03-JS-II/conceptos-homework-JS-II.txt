@@ -1,0 +1,20 @@
+
+﻿Conceptos (homework-JS-II)
+
+for
+  Es una declaración para bucle que repite la o las instrucciones especificadas
+  ene veces si el resultado de la evaluación de la condición es verdadera.
+  Hay que tener en cuenta que el bucle finalice en algún momento, ya que si no
+  lo hace se convierte en un bucle infinito el cual puede ocasionar problemas.
+  Un ciclo for suele incluir tres declaraciones encerradas entre paréntesis,
+  separadas por punto y coma, la primera para declarar la variable que controla
+  el bucle y otras si es necesario, la segunda para evaluar la condición y la
+  tercera para incrementar, con el operador ++, la variable encargada del número
+  de veces que se repetirá el bucle.
+
+&&, ||, !
+  Operadores Lógicos: Se utilizan generalmente para evaluar expresiones que dan
+  como resultado un valor booleano (true o false).
+  &&  Da como resultado true si ambas expresiones son verdaderas.
+  ||  Da como resultado true si una de las expresiones es verdadera.
+   !  Invierte el valor booleano de la expresión que preceda.
