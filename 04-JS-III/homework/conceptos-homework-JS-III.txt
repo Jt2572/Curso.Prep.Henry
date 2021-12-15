@@ -1,0 +1,33 @@
+﻿Conceptos (homework-JS-III) 
+
+Array 
+
+  Es como un contenedor de una lista de datos, los cuales se encuentran ordenados 
+  desde la posición cero hasta ene posición, a cada de uno de estos números de posición 
+  se les conoce como índice. Los arrays pueden almacenar cualquier cantidad de elementos,  
+  con los que se puede realizar operaciones; estos elementos pueden ser ya sea de igual 
+  o diferentes tipos como números, strings, booleanos, arrays o funciones las cuales, 
+  igualmente pueden ser invocadas. 
+ 
+  Para recorrer un array se usa, generalmente, el bucle for y se utiliza el índice del array 
+  como la variable para incrementar y el método length para establecer el número de ciclos. 
+  Para hacer estos recorridos en los arrays también puede emplearse while (mientras que) 
+  utilizando, igualmente, el índice como la variable que incrementa y el método length para  
+  establecer la cantidad de ciclos. 
+
+  Se usa push, una función nativa de JS, Para agregar elementos al final del array; para 
+  eliminarlos se usa la función pop, ésta devuelve el valor del elemento y lo elimina. De igual 
+  manera actúan unshift y shift, pero en el elemento inicial del array, unshift para agregar 
+  datos y shift para eliminarlos.
+
+  Los arrays disponen de muchos métodos que simplifican la forma de hacer las cosas como el 
+  método includes, usado para saber si un ítem se encuentra dentro de un arreglo, cuando esto
+  ocurre devuelve true, en caso contrario devuelve false. Asimismo existen, entre otros,
+  métodos como find, usado para encontrar ítems en el array; join, para concatenar ítems 
+  dentro del array, éste además permite agregar una separación, entre los elementos.
+
+  
+ 
+  
+
+ 
