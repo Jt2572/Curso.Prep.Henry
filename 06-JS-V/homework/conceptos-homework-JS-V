@@ -1,0 +1,11 @@
+Conceptos (homework-JS-V)
+
+prototype:
+Son como una colección de métodos disponibles para los objetos de determinada
+clase. Dentro de los prototype de los objetos se pueden definir nuevos métodos,
+inclusive en los objetos que incluye javascript, como String, Array etc.
+
+_Constructors_ (de Clases):
+Es un método especial de javascript  para construir e inicializar un objeto
+creado dentro de una clase cuando se usa class. Ya que es un método de javascript
+se debe escribir el nombre constructor exactamente.

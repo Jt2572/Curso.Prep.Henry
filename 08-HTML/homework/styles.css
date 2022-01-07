@@ -1,0 +1,45 @@
+
+ html {
+
+ }
+ body {
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+   align-content: center;
+   flex-direction: column;
+   background-image: url(https://us.123rf.com/450wm/lekstuntkite/lekstuntkite1607/lekstuntkite160700051/60193953-brown-paper-texture-background.jpg?ver=6);
+ }
+
+  h1 {
+    color: lightslategray;
+  }
+
+  h3, h4 {
+    text-align: center;
+  }
+
+  img {
+    width : 400px;
+  }
+  #thirdDiv {
+    background : cornsilk;
+    padding : 50px;
+    border: 2px outset wheat;
+    height : 600px;
+    width : 500px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+
+
+
+
+
+  }
+  #spanId{
+    font-size: 18px;
+    margin : 50px;
+  }

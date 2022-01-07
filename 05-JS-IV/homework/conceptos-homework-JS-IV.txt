@@ -1,0 +1,20 @@
+﻿Conceptos (homework-JS-IV)
+
+Objeto:
+Es una representación conformada por una propiedad y el respectivo valor de
+esa propiedad, puede tener varias propiedades y por consiguiente varios valores.
+
+Propiedades:
+Son las características que identifican al objeto.
+
+Métodos:
+Los métodos son las funciones que se asignan como valores de las propiedades
+de los objetos.
+
+For in:
+Es un bucle iterativo especial para recorrer internamente los objetos.
+
+Notación de puntos vs notación de corchetes:
+A pesar de ser muy práctica la notación por puntos es algo limitada ante la notación
+por corchetes, ya que ésta permite utilizar espacios o caracteres especiales en los 
+nombres de las propiedades de los objetos y la notación por puntos no lo permite.

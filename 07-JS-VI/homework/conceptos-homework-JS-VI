@@ -1,0 +1,7 @@
+Conceptos (homework-JS-VI)
+
+* Funciones Callback:
+Una función Callback es una función que se pasa dentro de otra función como
+argumento, la cual se llamará de regreso (call back). La función que recibe al
+callback como argumento se denomina función de orden alto (high-order). Por
+convención es costumbre nombrar cb a las callbacks.
